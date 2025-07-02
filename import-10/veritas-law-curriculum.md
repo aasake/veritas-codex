@@ -1,0 +1,3 @@
+# Veritas Law Curriculum
+
+...
